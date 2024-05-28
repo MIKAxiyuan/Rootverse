@@ -1,3 +1,6 @@
-# Divine Realm
 
-This is the content of Divine Realm.
+
+## Subpage
+
+- [Oracle Realm](OracleRealm.md)
+  
