@@ -7,3 +7,5 @@ This vast territory brings together humans and many other humanoid beings. Among
 
 - [Multiverse Domain](MultiverseDomain.md)
 - [Elemental Star Domain](ElementalStarDomain.md)
+- [Clutivation Star Domain](ClutivationStarDomain.md)
+- [Cloud Abyss Star Domain](CloudAbyssStarDomain.md)
