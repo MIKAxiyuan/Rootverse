@@ -4,5 +4,5 @@ This is the English version of the README file.
 
 ## Pages
 
-- [The myriad worlds](The myriad worlds.md)
+- [Page 1](page1.md)
 
