@@ -1,8 +1,8 @@
-# English README
+# Rootverse Map
 
 This is the English version of the README file.
 
-## Pages
+## Realm
 
 - [The myriad worlds](Themyriadworlds.md)
 - [Divine Realm](DivineRealm.md)
