@@ -14,6 +14,6 @@ The name "Multiverse Domain" itself is filled with the symbolism of the cosmic c
 - [Divine Cloud Star](DivineCloudStar.md)
 - [Heartvein Star](HeartveinStar.md)
 - [Tech Star](TechStar.md)
-- [Interstellar Port](InterstellarPortr.md)
+- [Interstellar Port](InterstellarPort.md)
 - [Loong Spirit Star](LoongSpiritStar.md)
 
