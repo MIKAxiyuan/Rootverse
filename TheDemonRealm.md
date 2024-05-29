@@ -1,6 +1,6 @@
 # The Demon Realm
 
 
-## Subpage
+## Domain
 
 - [Demon Domain](DemonDomain.md)
