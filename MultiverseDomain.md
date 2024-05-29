@@ -8,6 +8,7 @@ The name "Multiverse Domain" itself is filled with the symbolism of the cosmic c
 - Forestian
 - Techie
 - StarTraveler
+- Loong
 
 ### Star
 - [Divine Cloud star](DivineCloudstar.md)
