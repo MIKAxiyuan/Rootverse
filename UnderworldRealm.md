@@ -1,6 +1,6 @@
 # Underworld Realm
 
 
-## Subpage
+## Domain
 
 - [Underworld Domain](UnderworldDomain.md)
