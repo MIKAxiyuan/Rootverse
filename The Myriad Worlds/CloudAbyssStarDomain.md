@@ -8,5 +8,5 @@ This unique planet is composed of countless floating islands, creating an inters
 - Nightshade
 
 ### Star
-- [Tianyi Star](TianyiStar.md)
-- [Phantom Star](PhantomStar.md)
+- Tianyi Star
+- Phantom Star
