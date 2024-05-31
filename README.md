@@ -1,8 +1,14 @@
-# Main README About "Rootvers Map"
 
-This is the main README file for the repository.
 
-For other languages, please refer to:
 
-- [Rootverse Map](README_en_US.md)
-- [Root元宇宙地图](README_zh_CN.md)
+# Rootverse Map 
+- The myriad worlds
+- Divine Realm
+- The Demon Realm
+- Underworld Realm
+
+# Root元宇宙地图
+- 大千世界
+- 神界
+- 魔界
+- 冥界
