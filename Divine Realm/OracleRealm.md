@@ -6,7 +6,7 @@ The Oracle Realm serves as the center of wisdom and prophecy for the divine race
 - Divine Warrior
 
 ### Star
-- [War God Star](WarGodStar.md)
-- [Destiny Wheel Star](DestinyWheelStar.md)
-- [Veiled Origin Star](VeiledOriginStar.md)
-- [Sanctuary of Return](SanctuaryofReturn.md)
+- War God Star
+- Destiny Wheel Star
+- Veiled Origin Star
+- Sanctuary of Return
