@@ -5,5 +5,5 @@ The Underworld Domain represents the boundary between life and death, symbolizin
 - Skeleton
   
 ### Star
-- [Death Star](DeathStar.md)
+- Death Star
 
