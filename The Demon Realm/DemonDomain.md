@@ -5,4 +5,4 @@ A truly forbidden territory, this mysterious star system is shrouded in darkness
 - Asura
 
 ### Star
-- [Abyssal Star](AbyssalStar.md)
+- Abyssal Star
