@@ -12,5 +12,5 @@ The Elemental Star Domain is not only a convergence of diverse life forms but al
 - Thunder
 
 ### Star
-- [Tri-Elemental Star](Tri-ElementalStar.md)
-- [Xueyun Star](XueyunStar.md)
+- Tri-Elemental Star
+- Xueyun Star
