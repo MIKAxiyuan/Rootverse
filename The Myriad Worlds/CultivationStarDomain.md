@@ -8,7 +8,7 @@ This is an interstellar domain where the ultimate goal is the pursuit of inner c
 - SoulBinder
 
 ### Star
-- [Martial Arts Star](MartialArtsStar.md)
-- [Spirit Cultivation Star](SpiritCultivationStar.md)
+- Martial Arts Star
+- Spirit Cultivation Star
 
 
