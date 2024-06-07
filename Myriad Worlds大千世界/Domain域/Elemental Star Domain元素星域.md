@@ -12,5 +12,5 @@ The Elemental Star Domain represents the power of nature, a vibrant and primal s
 - Thunder 雷霆族
 
 ### 星球
-- [Tri-Elemental Star三元素星](Tri-ElementalStar三元素星.md)
-- [Xueyun Star雪韻星](XueyunStar雪韻星.md)
+- Tri-Elemental Star三元素星
+- Xueyun Star雪韻星
