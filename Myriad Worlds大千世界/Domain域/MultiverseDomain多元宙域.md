@@ -13,8 +13,8 @@
 - Loong 龙族
   
 ### Star 星球
-- [Divine Cloud Star 神雲星](DivineCloudStar神雲星.md)
-- [Heartvein Star心脈星](HeartveinStar心脈星.md)
-- [Tech Star科技星](TechStar科技星.md)
-- [Interstellar Port星際港](InterstellarPort星際港.md)
-- [Loong Spirit Star龍靈星](LoongSpiritStar龍靈星.md)
+- Divine Cloud Star 神雲星
+- Heartvein Star心脈星
+- Tech Star科技星
+- Interstellar Port星際港
+- Loong Spirit Star龍靈星
