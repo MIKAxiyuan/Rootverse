@@ -1,0 +1,36 @@
+## Interstellar Port
+- **Harbor Metropolis**: Situated at the core of the Interstellar Port, this city is a center for transportation and politics, equipped with the most advanced communication and transportation tools; it has numerous interstellar ships docking and maintenance facilities and a trading center with other planets.
+- **Interstellar Portal**: A huge portal on the main island allowing for quick connections with other planets, facilitating entry and exit for the star races.
+- **Interstellar Floating Islands**: Each floating island is equipped with advanced environmental control systems, simulating various planetary living conditions to meet the diverse needs of star races.
+- **Celestial Observatory**: A giant observation tower that offers views of various cosmic phenomena.
+- **Interstellar Market**: Gathering distinctive goods and food from various star races, it is a great place to experience exotic cultures.
+- **Cosmic Springs**: A mysterious hot spring area, said to have waters from the universe's oldest planets, known for their healing and restorative properties.
+- **Zero-Gravity Park**: A large indoor park where visitors can experience floating and playing in a gravity-free environment.
+- **Nebula Gardens**: A floating garden in the air housing various rare extraterrestrial plants and wildlife.
+
+
+
+## 星際港
+### 港口都市 
+位於星際港的核心，是交通和政治的中心，擁有最先進的通訊和交通工具；擁有大量的星際船隻停靠和維修設施，以及與其他星球的貿易中心。
+
+### 星際傳送門
+主島上設有一座巨大的傳送門，可以直接與其他星球進行快速的連接，方便星際族的出入。
+
+### 星際漂浮島
+每個浮動島嶼都配備有先進的環境調控系統，能夠模擬多種星球的居住環境，以滿足不同星際族的生活需求。
+
+### 天文觀測台 
+一個巨大的觀測塔，可以看到宇宙中的各種奇景。
+
+### 星際市場
+集結了各個星際族的特色商品和食品，是個品味異域文化的好地方。
+
+### 宇宙之泉 
+一個神秘的溫泉區，據說其水來自於宇宙最古老的星球，擁有治癒和恢復的功效。
+
+### 零重力公園 
+一個巨大的室內公園，遊客可以體驗在沒有重力的環境中自由飄浮和玩耍。
+
+### 星雲花園 
+一個浮在空中的花園，內有各種稀有的外星植物和野生動物。
