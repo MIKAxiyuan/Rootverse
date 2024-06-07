@@ -1,0 +1,40 @@
+## Phantom Star
+- **Star Magic Tower**: An ancient magic tower on an island, serving as an academy and laboratory for magicians, filled with secrets and treasures of star magic.
+- **Misttalk Forest**: Located in the western part of the planet, this vibrant cloud-top forest's every leaf is imbued with life through magic, capable of telling stories of the past and prophecies of the future, representing the memory and wisdom of history.
+- **Moonlight Sea**: The waters here are silver-white, said to enhance magical energy when immersed.
+- **Core of Magic Temple**: Built on a huge floating rock, it houses a vast collection of magical knowledge and artifacts, making it a sacred place for the Magic Clan.
+- **Mirror Sea**: A vast water body with a surface as reflective as a mirror, perfectly mirroring the floating islands above. The aquatic life in the pool possesses magical properties, particularly magical pearls that can reflect one's true spirit. The calm waters reflect the beauty of the cloud dynasty perfectly. It is said that the sea contains precious magical pearls that reveal the true nature of the heart.
+- **Phantom City**: The heart of the planet, a large city composed of floating islands connected by magical bridges, the entire city spins like a disc in the starry sky.
+- **Valley of Heavenly Sounds**: Located in the northern part of the planet, this deep valley's stones emit melodic sounds due to special magic. When the wind blows, the entire valley becomes a giant musical instrument, producing celestial sounds.
+- **Shadow City**: Built on a dark island, the city's buildings are black or deep blue. The Shadow Clan excels in stealth and concealment, so the city's architecture is designed to be very secretive and mysterious.
+- **Nightshadow Canyon**: Deep within the canyon where sunlight rarely reaches is the dwelling place of the Shadow Clan. The rocks in the canyon are inscribed with ancient magical runes that emit a soft blue glow at night.
+
+
+
+## 幻影星
+### 星法塔
+島嶼上矗立著古老的魔法塔，是星球上魔法師的學院和實驗室，裡面充滿了星法的秘密與寶藏。
+
+### 霧語森林
+星球的西部，是一片生機勃勃的雲上森林。這片森林的每一片葉子都被魔法賦予了生命，它們能夠訴說過去的故事和未來的預言，代表歷史的記憶與智慧。
+
+### 月光海
+此海域的水呈現出銀白色，據說浸泡其中可以增強魔法能量。
+
+### 魔核神殿
+建於一個巨大的漂浮石上，內部藏有大量的魔法知識和神器，是魔法族的聖地。
+
+### 天鏡之海
+是一個巨大的水域，水面如鏡，完美反射著浮游島嶼的影子。池中的水生生物都有神奇的魔法力量，尤其是能夠映照心靈的魔法珍珠。這片海域的水面平靜如鏡，能完美反射雲端王朝的美景。傳說中，海中有一種珍貴的魔法珍珠，能夠映照出真實的心靈。
+
+### 幻影都市
+星球的心臟地帶，是由浮游島嶼組成的大都市，每個島嶼都由魔法橋樑連接，整座城市如同一個在星空中旋轉的盤子。
+
+### 天音谷
+在星球的北方，是一片深邃的峽谷，裡面的石頭都因為特殊的魔法而能發出悠揚的旋律。當風吹過時，整個峽谷都會變成一個巨大的樂器，發出天籟之音。
+
+### 暗影城
+建在一個黑暗的島上，城市中的建築都是黑色或者深藍色，夜影族善於潛行和潛藏，所以城市的建築都設計得非常隱秘和神秘。
+
+### 夜影峽谷
+峽谷深處常年不見陽光，是夜影族的居住地。峽谷中的岩石刻有古老的魔法符文，夜晚時，這些符文會發出幽藍的光芒。
