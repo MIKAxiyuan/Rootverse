@@ -1,20 +1,18 @@
 
 
-
 # Rootverse Map 
 ### Myriad worlds 大千世界
-- [MultiverseDomain多元宙域](MultiverseDomain多元宙域.md)
-- [Elemental Star Domain元素星域](ElementalStarDomain元素星域.md)
-- [Cultivation Star Domain修煉星域](CultivationStarDomain修煉星域.md)
-- [Cloud Abyss Star Domain雲淵星域](CloudAbyssStarDomain雲淵星域.md)
+- MultiverseDomain 多元宙域
+- Elemental Star Domain 元素星域
+- Cultivation Star Domain 修煉星域
+- Cloud Abyss Star Domain 雲淵星域
 
+### Divine Realm 神界
+- Oracle Realm 神諭星域
+
+### Demon Realm 魔界
+- Demon Domain 魔域
   
-- Divine Realm 神界
-- Demon Realm 魔界
-- Underworld Realm 冥界
+### Underworld Realm 冥界
+- Underworld Domain 冥域
 
-### Domain 域
-- [Myriad Worlds大千世界](MyriadWorlds大千世界.md)
-- [Elemental Star Domain元素星域](ElementalStarDomain元素星域.md)
-- [Cultivation Star Domain修煉星域](CultivationStarDomain修煉星域.md)
-- [Cloud Abyss Star Domain雲淵星域](CloudAbyssStarDomain雲淵星域.md)
