@@ -1,0 +1,39 @@
+## Martial Arts Star
+- **Martial Arts Domains**: The planet is scattered with various martial arts training environments, from volcanoes flowing with lava to turbulent seas, providing martial artists with diverse training settings.
+- **Spiritual Ore Veins**: Deep within the planet, there are abundant veins of spiritual ores believed to enhance the inner strength and martial skills of cultivators.
+- **Warrior God Altar**: At the highest peak of the planet, there is an ancient altar said to be the descent place of the Warrior God. Ascetics and martial artists often come here to pray and train.
+- **Heart Refining City**: At the center of the planet, this city is built atop a mountain, surrounded by huge waterfalls, creating a misty environment. The city center features a large martial arts hall for martial artists to spar and hone their skills.
+- **Dragon Scale Sea**: In the eastern part of the planet, this sea area has blue-green waters, said to contain ancient martial arts secrets on the seabed. Several floating islands in the sea serve as secluded retreats for ascetics. Here lies the Dragon Pool, an excellent place for water-based martial artists to train their inner strength and skills.
+- **Flame Stone City**: In the southern volcanic region of the planet, built atop an active volcano, the flowing lava provides the city with endless energy. The city contains multiple fire refining platforms for martial artists to train their fire-based skills. There is also a Flame Altar where fire-based martial artists can train and rapidly enhance their strength.
+- **Wind Shadow Canyon**: Located in the western part of the planet, this deep canyon experiences constant strong winds with ancient martial arts totems carved into its stone walls. The Temple of Wind allows air-based martial artists to train in strong winds, strengthening their bodies and skills.
+- **Core of the Earth City**: Deep underground in the northern part of the planet, the city is entirely built underground, surrounded by hard rocks and spiritual ores. This is the main place for ascetics to study earth-based martial arts.
+- **Rock Heart Plaza**: Earth-based martial artists train here, connecting with the core of the earth to absorb earth-based energy more quickly.
+
+
+## 武道星
+### 武道場域
+星球上分布著各種各樣的武道場所，從岩漿流淌的火山，到風高浪急的海域，為武者提供了各種鍛鍊的環境。
+
+### 靈元礦脈
+這個星球深處藏有大量的靈元礦石，這些礦石被認為可以增強修煉者的內力和武技。
+
+### 武神祭台
+在星球的最高峰，有一個古老的祭台，傳說是武神降臨的地方，修道者和武者常來此地祈禱和修煉。
+
+### 煉心城
+星球中心，這是一個建築在高山之上的城市，其四周有巨大的瀑布流下，形成雲霧環繞的景象。城市中心有一座大型武道館，供武者們切磋武技。
+
+### 龍鱗海
+星球東部，這片海域的海水呈現出藍綠色，據說海底蘊藏著古老的武技秘籍。海域中有幾座漂浮的島嶼，是修道者們的隱居之地。這裡有一個龍潭，是水系武者修煉內力和武技的絕佳場所。
+
+### 焰石城
+星球南部火山區，建立在活火山之上的城市，四處流淌的熔岩為城市提供了無盡的能量。城市內有多個煉火台，供武者們修煉火系武技。城裡有火焰祭壇，火系武者在此地修煉，能更快提升自己的實力。
+
+### 風影峽谷
+星球西部，這是一個深入地底的峽谷，峽谷中常年刮著強風，峽谷的石壁上刻有古老的武技圖騰。風神殿，供風系武者在強風中修煉，鍛鍊他們的身體和武技。
+
+### 地核之城
+星球北部地下深處，城市完全建在地下，周圍是堅硬的岩石和靈元礦石。這裡是修道者們研究地系武技的主要場所。
+
+### 岩心廣場
+地系武者在此地修煉，與地心連接，更快吸收地系能量。
