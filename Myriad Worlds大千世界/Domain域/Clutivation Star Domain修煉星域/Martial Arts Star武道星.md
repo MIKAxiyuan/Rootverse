@@ -1,3 +1,7 @@
+
+![d1049c6ee43fcb98e4be59a0f3f0ac5d](https://github.com/BRC1024Rootverse/Rootverse/assets/170728893/aaf537b4-8831-4d98-9a3d-7c16a77af885)
+
+
 ## Martial Arts Star
 - **Martial Arts Domains**: The planet is scattered with various martial arts training environments, from volcanoes flowing with lava to turbulent seas, providing martial artists with diverse training settings.
 - **Spiritual Ore Veins**: Deep within the planet, there are abundant veins of spiritual ores believed to enhance the inner strength and martial skills of cultivators.
