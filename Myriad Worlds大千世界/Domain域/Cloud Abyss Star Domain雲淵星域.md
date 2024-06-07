@@ -10,5 +10,5 @@ This unique planet is composed of countless floating islands, creating an inters
 - Nightshade 夜影族
 
 ### Star 星球
-- [Tianyi Star天翼星](TianyiStar天翼星.md)
-- [Phantom Star幻影星](PhantomStar幻影星.md)
+- Tianyi Star 天翼星
+- Phantom Star 幻影星
