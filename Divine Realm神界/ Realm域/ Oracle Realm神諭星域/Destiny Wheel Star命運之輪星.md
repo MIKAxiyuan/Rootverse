@@ -1,7 +1,15 @@
-## Destiny Wheel Star 命運之輪星 
-### Wheel of Destiny 命運之輪
- The core landmark of Destiny Wheel Star is the colossal Wheel of Destiny, situated at the planet's center. This structure serves both as a symbol and a functional facility, housing intricate mechanical and magical mechanisms designed to reveal and influence the flow of fate.
- 
+### Destiny Wheel Star
+- **Wheel of Destiny**: The core landmark of Destiny Wheel Star is the colossal Wheel of Destiny, situated at the planet's center. This structure serves both as a symbol and a functional facility, housing intricate mechanical and magical mechanisms designed to reveal and influence the flow of fate.
+- **Prophets' Valley**: Near the Wheel of Destiny lies a deep valley inhabited by the planet's prophets and astrologers. This area is filled with observatories and divination chambers where prophets interpret the flow of destiny through stargazing and mysterious rituals.
+- **Divine Lake**: Located in the eastern part of Destiny Wheel Star, this crystal-clear lake is believed to have the magical ability to foresee the future. Along the lakeside, there are multiple meditation pavilions where individuals can reflect and seek inner guidance.
+- **Gates of Choice**: In the northern region of the planet, an area known as the Gates of Choice features rows of massive stone gates, each representing different destiny choices. This is a crucial trial ground where novice prophets must pass the tests of the Gates of Choice to prove their foresight abilities.
+- **Library of Destiny**: South of the Wheel of Destiny lies a vast library, storing theories of cosmic fate and historical records. This library serves as both a place of learning and research and a treasure trove for uncovering clues about destiny.
+
+
+
+
+## 命運之輪星 
+### 命運之輪
 命運之輪星的核心地標是巨大的命運之輪，位於星球的中央。這座建築物既是象徵也是實際的功能設施，內部設有複雜的機械和魔法結構，用來揭示和影響命運的流向。
 
 ### 預言者谷
@@ -15,3 +23,6 @@
 
 ### 命運圖書館
 存儲著關於宇宙命運理論和歷史記錄的巨大圖書館，位於命運之輪的南方。這裡不僅是學習和研究的場所，也是尋找命運線索的寶庫。
+
+
+
