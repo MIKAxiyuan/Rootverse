@@ -1,0 +1,36 @@
+## Tech Star
+- **Nebula City**: The capital of Technology Star, a highly modernized metropolis boasting the most advanced technology and architecture. At the city center is a huge AI Center Tower, controlling and maintaining the operation of the entire city.
+- **Machina Canyon**: A canyon made up of countless discarded machines and circuits, a paradise for explorers and history enthusiasts.
+- **Photon Institute**: Located in the eastern part of Nebula City, this is the top research institution on Technology Star, specializing in photon and quantum technology.
+- **ElectroGrid Forest**: A forest of tall "ElectroGrid trees," each acting as an energy storage and converter, powering the entire planet.
+- **City of Tech**: A city filled with a modern vibe, featuring high-tech facilities and buildings everywhere, with drones flying overhead and intelligent transport on the ground. It is a metropolis for technologists where they research and develop various advanced technologies and engage in technological exchanges with other races.
+- **Valley of Winds**: Nestled between valleys, utilizing strong wind power for electricity generation.
+- **Galaxy Lake**: Located in the western part of Nebula City, the lake appears deep blue and twinkles with starlight at night, resembling a mini galaxy.
+- **Data River**: A river flowing through Nebula City, its data light waves providing network and information services.
+
+
+
+## 科技星
+### 星雲都市 
+科技星的首都，一個高度現代化的大都市，擁有最先進的科技和建築。城市中心有一個巨大的AI中心塔，控制和維護整個城市的運行。
+
+### 機器峽谷 
+一個由無數廢棄的機器和電路組成的峽谷，是探險家和歷史愛好者的天堂。
+
+### 光子研究所 
+位於星雲都市的東部，是科技星上最頂尖的研究機構，專門研究光子和量子技術。
+
+### 電網林 
+一個由高大的“電網樹”組成的森林，每一棵樹都是一個能量儲存和轉換器，為整個星球供電。
+
+### 技術之城 
+整座城市充滿了現代感，到處都是高科技的設施和建築，空中有無人機飛行，地面上則是智能交通工具。科技人的都市，他們在這裡研究和發展各種先進技術，與其他種族進行技術交流。
+
+### 風之谷 
+城市坐落在山谷之間，利用強大的風力發電。
+
+### 銀河湖
+位於星雲都市西部，湖水呈現出深藍色，並在夜晚閃爍著星光，像一個迷你銀河系。
+
+### 數據河 
+流經星雲都市的一條河流，河中的數據光波可以提供網絡和信息服務。
