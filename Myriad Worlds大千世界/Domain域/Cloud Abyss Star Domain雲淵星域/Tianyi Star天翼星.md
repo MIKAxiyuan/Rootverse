@@ -1,0 +1,22 @@
+## Tianyi Star
+- **Featherwing City**: The capital built on a huge floating island. The city's architecture resembles bird nests scattered in an organized manner, constructed from lightweight materials. Observation decks on tall towers provide views of other islands and distant planets.
+- **Windsong Sea**: A vast floating body of water where the currents between islands produce melodious sounds. The Feathered Clan enjoys playing and expressing themselves here.
+- **Skydance Forest**: Tall trees connected to floating islands where the Feathered Clan has built their homes. At night, the forest is alive with fireflies, creating a dreamlike scene.
+- **Temple of Feathers**: Located on a floating peak, this is a sacred site for the Feathered Clan's rituals. It is said to house ancient feathers representing the origin of the Feathered Clan.
+- **Skyfeather City**: Situated in the eastern part of the planet, atop high mountains. This floating city houses a large research center for flying creatures.
+
+## 天翼星
+### 羽翼城
+建在一個巨大的漂浮島上的都城。城市的建築如同鳥巢，錯落有致，採用輕盈的建材。高塔上的觀景台可以看到其他的島嶼和遠方的星球。
+
+### 風歌海
+一個巨大的懸浮水體，海水在島嶼之間流動，產生美妙的旋律。羽人族喜歡在此嬉戲和放飛自我。
+
+### 天舞森
+高大的樹木與漂浮島連接，羽人族在樹木間建起了居所，夜晚，森林裡會有螢火蟲飛舞，景色宛如夢境。
+
+### 羽之神殿
+位於一個漂浮的山峰上，是羽人族祭祀的聖地。傳說神殿內有古老的羽毛，代表著羽人族的起源。
+
+### 羽天城
+位於星球的東部，高山之上的懸浮之城，還里有一個龐大的飛行生物研究中心。
