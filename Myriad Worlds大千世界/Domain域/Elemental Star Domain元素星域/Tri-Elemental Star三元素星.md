@@ -1,3 +1,6 @@
+![028097ed43705db167a69cc7000ee493](https://github.com/BRC1024Rootverse/Rootverse/assets/170728893/5ed0a34c-9297-4493-8a16-8f5eafcacf28)
+
+
   
 ## Tri-Elemental Star
 **Fiery Rock Citadel**: This massive city built atop a volcano is the main residence of the Flame Clan. The central volcano periodically erupts with magma, which the Flame Clan uses as an energy source, establishing an energy recycling system.
