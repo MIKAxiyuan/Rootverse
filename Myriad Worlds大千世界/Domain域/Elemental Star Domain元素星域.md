@@ -11,6 +11,6 @@ The Elemental Star Domain represents the power of nature, a vibrant and primal s
 - Pyronians 炎焰族
 - Thunder 雷霆族
 
-### 星球
+### Star 星球
 - Tri-Elemental Star三元素星
 - Xueyun Star雪韻星
