@@ -1,0 +1,23 @@
+## Xueyun Star
+- **Eternal Frost City**: The capital of Xueyun Star, covered in ice and snow throughout the year. The high city walls are built from thick blocks of ice, and the buildings within are constructed using special ice and snow techniques, making them crystal clear.
+- **Icebound Holy Tower**: Located in the center of Eternal Frost City, this tower is a sacred place for ascetics to practice. Inside the tower, there are ice sculptures of Buddha, ancient scriptures, and frosty magical treasures, representing the mysterious fusion of ice and snow.
+- **Frost Forest**: Situated in the northwest of the planet, this is a vast evergreen forest. Despite the perennial snowfall, the creatures here have special abilities to adapt to the cold, representing life's adaptability and resilience.
+- **Cold Wind Valley**: Located in the southern part of the planet, this area consists of canyons. Due to the wind tunnels formed by the canyons, it is perpetually windy here.
+- **Frozen Soul Lake**: Found north of Eternal Frost City, the lake's surface is frozen year-round, only breaking open on specific days to reveal the water beneath. It is said that deep within the lake exists a magical plant known as the "Ice Soul Flower," which absorbs moonlight and emits a faint blue light at night, adding a touch of mystery to the frozen lake surface.
+
+
+## 雪韻星
+### 永凍之城
+雪韻星球的首都，全年被冰雪覆蓋。高高的城牆由厚厚的冰塊築成，城內的建築也使用特殊的冰雪工藝建造，晶瑩剔透。
+
+### 冰封聖塔
+位於永凍之城的中央，是修道者的修煉聖地。塔內有冰雕佛像、古老的經文和寒冰法寶，是冰與雪的神秘結晶。
+
+### 霜之森
+位於星球的西北方，是一片巨大的常青森林，儘管這裡常年雪花飄飄，但森林裡的生物都有適應寒冷的特殊能力，代表生命的適應性和堅韌。
+
+### 寒風谷
+位於星球的南部，是一片由峽谷組成的地區。由於峽谷形成的風口，這裡常年風聲呼嘯。
+
+### 冰魄之湖 
+位於永凍之城的北側，湖面常年冰封，只有在特定的日子，冰層才會破裂，露出湖面。據說，湖水深處有一種名為“冰魄花”的神奇植物，它能夠吸收月光，夜晚時放出淡淡的藍光，為冰封的湖面增添了一抹神秘的色彩。
