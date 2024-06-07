@@ -1,0 +1,32 @@
+## Heartvein Star
+- **City of Star Kings**: The central area of the planet, the capital of the human race's star domain, featuring a majestic Star Palace at its heart, serving as the political, cultural, and trade hub of the entire planet. Each Star Celebration here attracts guests from various star systems. The city also hosts a large spaceport, an important transportation hub for the core planets.
+- **Core of the Forest Star**: Located southwest of the City of Star Kings, this ancient forest under the stars represents the life cycle of the stars and the harmony of the universe, symbolizing the cycle of life and the balance of nature.
+- **Constellation Temple**: A temple in the eastern part of the City of Star Kings, built by the ancestors of the Star People to commemorate their sacred pact with the stars. At night, the temple resonates with the distant starry sky, emitting a mysterious glow.
+- **Sun Valley**: Adjacent to the temple, near a meandering river, this area features gentle hills with distinct seasons and picturesque scenery. Next to the river lies a fertile land ideal for agriculture.
+- **Cloudtop Mountain Palace**: In the northern mountainous region of the planet, this is a place for ascetic practice, surrounded by clouds and mist. It houses several meditation centers and research institutes for study and meditation; the mountains are full of ancient relics and temples, great for exploration and study.
+- **Sea Breeze Island**: Located in the southern seas of the planet, consisting of a series of small islands. The island has a Life Spring Lake surrounded by spiritual aura, with crystal-clear waters. The lake houses a magical fish that can predict the future. Many visit to discern their fate through the movements of the fish.
+- **Deep Sea Kingdom**: At the southern end of the planet, this kingdom of the Deep Sea Clan boasts a spectacular underwater world, representing mystery and wisdom.
+
+
+
+## 心脈星
+### 星王之城
+星球的中央區域，人族的星域都城，中心有一座宏偉的星宮，作為整個星球的政治、文化和貿易中樞。此城每一次的星慶都吸引著各星系來賓。城中設有一座大型的太空港，是核心星球的重要交通樞紐。
+
+### 林星之核
+位於星王之城的西南，是一片繁星下的古老森林，代表生命的星輪回與宇宙的和諧，象徵生命的循環與自然的平衡。
+
+### 星座神殿
+星王之城東部的一座星座神殿，據說是星際族的祖先建造，用來紀念與星辰結下的神契。每當夜晚來臨，神殿都會與遠方的星空相互呼應，散發出神秘的光華。
+
+### 太陽谷
+緊鄰神殿，靠近一條蜿蜒的河流，這裡有平緩的山丘，四季分明，風景如畫，河流旁有一片豐收之地，土壤肥沃，非常適合農耕。
+
+### 雲頂山宮
+星球的北部山區，高山上的修道之地，四周雲霧繚繞，設有多個禪修院和研究所，供人們學習和冥想；山中有眾多古老的遺跡和神廟，是探索和研究的好地方。
+
+### 海風島
+位於星球的南部海域，由一系列的小島組成，島上有一個生命之泉湖 四周散發著靈氣，水清澈見底。湖中有一種神奇的魚，能夠預知未來。許多人來到此處，希望從魚兒的遊動中得知命運的安排。
+
+### 深海王國
+星球的南端，深海族的王國，有著壯觀的海底世界，代表神秘與智慧。（需要再次修改深海族的一些設定）
