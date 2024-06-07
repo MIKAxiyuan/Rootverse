@@ -1,0 +1,28 @@
+### War God Star
+War God Star is a planet teeming with battlefields and arenas, perfectly suited for the combat training and martial testing of the Warrior Clan. The Warrior Clan practices their combat skills here, and at the center of the planet stands a colossal Temple of War, which serves as the gathering and decision-making center for the clan.
+- **War God Plains**: The War God Plains are the most expansive area on War God Star, filled with battlefields for training and live combat exercises. The terrain varies greatly, from ravines to hills, providing a diverse training environment for the Warrior Clan. This site frequently hosts large-scale combat simulations, attracting numerous warriors to hone their skills.
+- **Eternal Arena**: Located at the center of the planet, this massive open-air arena can accommodate tens of thousands of spectators. The arena hosts various significant fights and competitions, including the annual Warrior Clan Championships and the War God Ceremony.
+- **Temple of War**: Adjacent to the arena stands the Temple of War, the spiritual and command center of the Warrior Clan. The interior of the temple is adorned with statues and murals of war gods from various eras, documenting the history and honors of combat.
+- **Ironblood Village**: Scattered around the War God Plains are small villages, primarily inhabited by warriors engaged in daily training and their families. These villages are robustly constructed to withstand potential accidental impacts during training.
+- **Weapons Forge Area**: In the western part of War God Star, there is a specialized area dedicated to the manufacture and testing of new weapons. This area attracts the universe’s finest blacksmiths and weapon masters, continuously providing the most advanced combat equipment to the Warrior Clan.
+
+
+
+## 戰神星
+### 戰神星
+戰神星是一個布滿戰場和競技場的星球，適合神鬥士族的戰鬥訓練和武力測試。神鬥士族在這裡進行戰鬥的修煉，星球中心有一座巨大的戰神神殿，是神鬥士族匯聚和決策的中心。
+
+### 戰神平原
+戰神平原是戰神星上最廣闊的地帶，這裡布滿了用於訓練和實戰演練的戰場。平原上的地形多變，從裂谷到山丘，為神鬥士提供多樣化的訓練環境。此地經常舉辦大規模的戰鬥模擬，吸引眾多神鬥士前來磨練技藝。
+
+### 永恆競技場
+位於星球的中心位置，是一座龐大的露天競技場，可容納萬人觀戰。競技場是各種重要戰鬥和比賽的舉辦地，包括年度神鬥士錦標賽和戰神儀式。
+
+### 戰神神殿
+競技場旁邊建有戰神神殿，這是神鬥士族的精神和指揮中心。神殿內部裝飾著歷代戰神的雕像和壁畫，記錄著戰鬥的歷史和榮譽。
+
+### 鐵血村落
+散布在戰神平原周圍的小村落，主要由參與日常訓練的神鬥士及其家屬居住。這些村落建造堅固，能夠抵禦訓練中可能發生的意外衝擊。
+
+### 武器熔爐區
+在戰神星的西部，有一片專門用於製造和試驗新型武器的熔爐區。這裡聚集了宇宙中最優秀的鐵匠和武器大師，不斷為神鬥士們提供最先進的戰鬥裝備。
