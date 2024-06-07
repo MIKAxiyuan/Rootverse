@@ -1,0 +1,20 @@
+### Veiled Origin Star
+- **Core Nexus**: At the center of Veiled Origin Star lies a massive energy core, composed of naturally formed crystals and surrounding energy fields. This is the most energy-dense area on the planet, supplying divine power to the entire star. It is also a sacred site for conducting advanced energy experiments and rituals.
+- **Valley of Oblivion**: Located in the northeast, this hidden valley is protected by ancient magic, surrounded by impenetrable mist and energy barriers. The valley is home to various exotic plants and minerals, all containing potent and unknown energies, making it an ideal location for the divine races to explore the unknown.
+- **Divine Genesis Grounds**: Situated in the southwest, this mysterious area is etched with intricate runes that can trigger fundamental cosmic forces. The Divine Genesis Grounds are used for the highest level of divine revelations and decisions, symbolizing the source of the divine races' power.
+- **Stellar Observatory**: In the northern mountainous region, located at the highest point of the planet, this complex structure is designed for observing cosmic and interstellar phenomena. Not only is it technologically advanced, but it can also sense subtle changes in the universe, making it a key location for understanding cosmic laws and predicting the future.
+
+
+
+## 隱秘之源星 
+### 能源心臟 
+隱秘之源星的中心，一個巨大的能量核心，由自然形成的結晶體和環繞的能量場構成。這裡是星球能量最濃厚的地方，供應著整個星球的神力需求，同時也是進行高級能量實驗和儀式的聖地。
+
+### 遺忘之谷 
+東北部，一片被古老魔法保護的隱秘谷地，周圍環繞著密不透風的迷霧和能量屏障，谷中生長著各種奇異的植物和礦石，這些都是含有強大未知能量的物種，是神族探索未知領域的絕佳地點。
+
+### 神啟聖地 
+西南部，這是一片神秘的地區，地面上刻有複雜的神秘符文，能夠觸發宇宙間的基本力量。神啟聖地用於進行最高層次的神力啟示和決策，是神族神力來源的象徵。
+
+### 星辰觀測台 
+北部山區，位於星球的最高點，一個專門設計來觀測宇宙和星際現象的複雜建築群。這裡不僅技術先進，而且能夠感應到宇宙中的微妙變化，是理解宇宙法則和預測未來的關鍵位置。
