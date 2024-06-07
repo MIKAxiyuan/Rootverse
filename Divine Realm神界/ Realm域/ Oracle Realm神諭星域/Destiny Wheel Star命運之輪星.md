@@ -1,5 +1,7 @@
-## 命運之輪星 
-### 命運之輪
+## Destiny Wheel Star 命運之輪星 
+### Wheel of Destiny 命運之輪
+ The core landmark of Destiny Wheel Star is the colossal Wheel of Destiny, situated at the planet's center. This structure serves both as a symbol and a functional facility, housing intricate mechanical and magical mechanisms designed to reveal and influence the flow of fate.
+ 
 命運之輪星的核心地標是巨大的命運之輪，位於星球的中央。這座建築物既是象徵也是實際的功能設施，內部設有複雜的機械和魔法結構，用來揭示和影響命運的流向。
 
 ### 預言者谷
