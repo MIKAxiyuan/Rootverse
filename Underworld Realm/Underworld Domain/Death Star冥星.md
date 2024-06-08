@@ -4,7 +4,9 @@
 - **Plain of Despair**: Located in the central northern area, this is an endless wasteland where the wind howls and signs of life are nearly nonexistent. Scattered across the plain are ancient stone tablets inscribed with unknown symbols, seemingly recording some ancient prophecy.
 - **Ancient Tower of Darkness**: Positioned northwest of the City of Silence, this isolated tower is surrounded by weathered ancient stone tombs. Inside the tower are layered chambers filled with various ancient magic circles and forbidden knowledge. The top floor houses an observatory from which, on certain special nights, one can glimpse sights from other planets.
 - **Nether Court**: Located in the southeastern corner of the Plain of Despair, this is a vast courtyard built from black stone. The architectural style and sculptures here express a worship and acceptance of death. In the center of the courtyard is a dark fountain, carved with various ghostly figures. The water in the fountain is black and constantly bubbling with tiny bubbles. It is said that the water can connect to an unknown dark realm.
-
+- **River of Styx**:In the southern region, this river runs through the entire Abyssal Star, with dark and icy waters, flanked by withered trees and thorns. The River of Styx is considered the only passage to the depths of the Netherworld, with its banks filled with legendary spirits of the dead. Ferries are the only safe means of crossing the river, and the ferrymen are among the most mysterious figures on the Abyssal Star.
+- **Hades Palace**:This is the most sacred place on the Abyssal Star, located at the end of the River of Styx. Hades Palace is a magnificent structure made of black marble, adorned with countless night jewels. The ruler of the Abyssal Star resides here, holding the power over life and death on the entire planet.
+- **Spring of Souls**:A mysterious spring hidden deep within the Spectral Swamp, it is said to absorb and store the souls of the dead. The water is a pale blue and shimmers with a faint light, believed to have miraculous healing powers.
 
 
 ## 冥星
