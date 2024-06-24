@@ -1,6 +1,5 @@
-| Name                       | 中文名称     | Level | Race        |
+| Name                       | 名称     | Level | Race        |
 |----------------------------|--------------|-------|-------------|
-
 | Castle of the Undead       | 亡灵城堡     | B     | Underworld  |
 | Zombie Altar               | 僵尸祭坛     | B     | Underworld  |
 | Tower of Rot               | 腐烂之塔     | B     | Underworld  |
